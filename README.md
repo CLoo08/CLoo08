@@ -1,10 +1,12 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Christian Loo
-=====================================================================================================================================
+<h1 align="center">¡Bienvenidos!
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif"/>
+Soy Christian Loo
 
-Web Developer
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kNjFxNm00YzJsem9yejhxaHljcTZkYmY5d2JjaWI5OWYzNmt2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen/></p>
+
+Acerca de mí
 -------------
-
-*   🌍  Soy Panamá
+*   🌍  Soy de Panamá
 *   🖥️  Checa mi Portafolio -> [Portafolio](http://christianloo.vercel.app/)
 *   ✉️ Me puedes contactar -> [christianloo0812@gmail.com](mailto:christianloo0812@gmail.com)
 
