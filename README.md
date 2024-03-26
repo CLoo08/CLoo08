@@ -1,13 +1,12 @@
-
-<h1 align="center"> Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1> <h2>Mi nombre es Christian Loo</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Loo
 =====================================================================================================================================
 
 Web Developer
 -------------
 
-*   🌍  Panamá
-*   🖥️  Checa mi portafolio -> [Portafolio](http://christianloo.vercel.app/)
-*   ✉️  Si deseas contactarme -> [christianloo0812@gmail.com](mailto:christianloo0812@gmail.com)
+*   🌍  I'm based in Panamá
+*   🖥️  See my portfolio at [Portafolio](http://christianloo.vercel.app/)
+*   ✉️  You can contact me at [christianloo0812@gmail.com](mailto:christianloo0812@gmail.com)### Skills 
 
 Skills 
 -------------
