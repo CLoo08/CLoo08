@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Loo
+Holla ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Christian Loo
 =====================================================================================================================================
 
 Web Developer
 -------------
 
-*   🌍  I'm based in Panamá
-*   🖥️  See my portfolio at [Portafolio](http://christianloo.vercel.app/)
-*   ✉️  You can contact me at [christianloo0812@gmail.com](mailto:christianloo0812@gmail.com)### Skills 
+*   🌍  Soy Panamá
+*   🖥️  Checa mi Portafolio -> [Portafolio](http://christianloo.vercel.app/)
+*   ✉️ Me puedes contactar -> [christianloo0812@gmail.com](mailto:christianloo0812@gmail.com)
 
-Skills 
+### Skills 
 -------------
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,18 +42,18 @@ Skills
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-Frases para Motivarse
+### Frases para Motivarse
 -------------
 
 Avanzando por el camino de la programación, se aprende algo nuevo todos los días.
 
 ![Banner frase](banner-github.png)
 
-Socials
+### Socials
 -------------
 
 <p align="left"> <a href="https://www.github.com/CLoo08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/christian-loo-4b3569300" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
- Badges
+ ###Badges
 -------------
 <a href="https://github.com/CLoo08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLoo08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
