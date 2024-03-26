@@ -1,4 +1,6 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <span> Mi nombre es Christian Loo</span>
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+
+<h2>Mi nombre es Christian Loo</h2>
 =====================================================================================================================================
 
 Web Developer
